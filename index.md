@@ -33,6 +33,7 @@ From the correlograms shown in Output 4, “acne” appeared in the comments wit
 According to the correlations of YTTP and Fresh and YTTP and Tatch, both correlations are slightly different (0.9847701, 0.9991659) and both have a high positive correlation with YTTP word frequency (shown in Output 5 and 6). This means that the comments of the three brands are mentioning similar topics.  
 
 ![Output 5: YTTP and Fresh correlation test](https://github.com/romchalee-a/YTTP-Text-Analytics/blob/main/image_yttp/Picture5.png)
+
 ![Output 6: YTTP and Tatch](https://github.com/romchalee-a/YTTP-Text-Analytics/blob/main/image_yttp/Picture6.png)
 
 **Framework 4: sentiment analysis**
@@ -44,6 +45,7 @@ After conducting sentiment analysis with the YTTP review shown in Output 7, we c
 Similar to YTTP’s top positive word, “love” is also the highest frequency of positive words for Fresh’s and Tatcha’s reviews shown in Output 8 and 9. The positive words for these three brands are also similar to each other. Most of them can be assumed as a compliment word, for example, recommend, amazing, and nice.  we can also observe a have higher frequencies and portion of positive words compared to negative words same as YTTP.  Therefore, we can conclude that both Fresh and Tatcha reviews tend to have more positive reviews than negative reviews.
 
 ![Output 8: the contribution to positive and negative sentiment in Fresh review](https://github.com/romchalee-a/YTTP-Text-Analytics/blob/main/image_yttp/Picture8.png)
+
 ![Output 9: the contribution to positive and negative sentiment in Tatcha review](https://github.com/romchalee-a/YTTP-Text-Analytics/blob/main/image_yttp/Picture9.png)
  
 To support this interpretation, these three products are ranked between 4-4.3 stars on the Sephora website shown in Figures 1,2, and 3. 
